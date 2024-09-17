@@ -174,7 +174,7 @@ body{
     align-items: center;
     justify-content: flex-start;
     flex-direction: column;
-    background-image:url('image/background_star_img.gif');
+    background-image:url('background_star_img.gif');
     padding: 200px 0;
 }
 #page5-content h1{
